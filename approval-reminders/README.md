@@ -1,5 +1,3 @@
-# Change color of Item Child Count when enough files have been uploaded
-
 ## Summary
 Theis sample illustrates how to add approval reminders to your flow. It relies on specific metadata within a library, which is detailed below
 
